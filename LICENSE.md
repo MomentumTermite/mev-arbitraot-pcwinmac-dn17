@@ -1,4 +1,4 @@
-# 
+# Turbo MEV arbitrage bot extensions for Mac OS | Updated MEV arbitrage bot extensions for PC Windows. Featuring format conversion and data caching — optimized for maximum performance on every platform.
 
 
 
